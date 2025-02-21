@@ -1,7 +1,3 @@
-Below is a sample **README.md** file that explains each part of the code, how to set up the environment, and how to run the project. Feel free to modify sections (like the license or your personal details) as you see fit.
-
----
-
 # RAG Pipeline Demo with MongoDB Atlas Vector Search & OpenAI
 
 This project demonstrates a simple **Retrieval-Augmented Generation (RAG)** pipeline using:
